@@ -7,9 +7,9 @@ var fairy,fairyImage;
 var starImage,star;
 
 function preload(){
-bgImage=loadImage("images/starnight.png")
-fairyImage=loadAnimation("images/fairy1.png","images/fairy2.png")
-starImage=loadImage("images/star.png")
+bgImage=loadImage("starnight.png")
+fairyImage=loadAnimation("fairy1.png","fairy2.png")
+starImage=loadImage("star.png")
 }
 
 
